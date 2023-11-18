@@ -1,0 +1,60 @@
+/* svg {
+  vertical-align: baseline;
+}
+
+body {
+  font-family: "Raleway", sans-serif;
+  background-image: url("/img/bg_home.jpg");
+  background-color: #cccccc;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+textarea {
+  @apply p-2;
+}
+
+.card {
+  @apply bg-white cursor-pointer rounded-md duration-300 shadow hover:(shadow-xl);
+}
+.scrollbar-hide::-webkit-scrollbar {
+  display: none;
+}
+
+@media screen and (min-width: 1024px) {
+  .scrollbar-hide::-webkit-scrollbar {
+    display: block;
+  }
+}
+.error_message_css .n-alert-body__title {
+  margin-top: -0.25rem;
+  color: var(--red, #ed2939) !important;
+  font-size: 1.125rem !important;
+  line-height: 1.75rem !important;
+  font-weight: 600 !important;
+}
+.error_message_css .n-base-icon {
+  color: var(--red, #ed2939) !important;
+}
+
+.success_message_css .n-alert-body__title {
+  margin-top: -0.25rem;
+  color: var(--green, #00c867) !important;
+  font-size: 1.125rem !important;
+  line-height: 1.75rem !important;
+  font-weight: 600 !important;
+}
+.success_message_css .n-base-icon {
+  color: var(--green, #00c867) !important;
+}
+
+.loading_message_css .n-alert-body__title {
+  margin-top: -0.25rem;
+  color: #1890ff !important;
+  font-size: 1.125rem !important;
+  line-height: 1.75rem !important;
+  font-weight: 600 !important;
+}
+.loading_message_css .n-base-icon {
+  color: #1890ff !important;
+} */
